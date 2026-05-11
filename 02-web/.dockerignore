@@ -1,0 +1,15 @@
+node_modules
+**/node_modules
+.next
+**/.next
+.env
+.env.local
+.env.production
+data
+backup
+.git
+.DS_Store
+*.log
+coverage
+.vscode
+.idea

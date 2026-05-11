@@ -1,0 +1,10 @@
+.DS_Store
+SESSION_NOTES.md
+node_modules/
+.env
+.env.local
+.env.production
+*.db
+*.db-shm
+*.db-wal
+.next/
